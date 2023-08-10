@@ -33,11 +33,11 @@
 
 ## Сертификаты 1С-Битрикс:
 
-<div id="stat" align="center">
-    <img src="./img/km.jpg" alt="" width="40" height="40"/>
-    <img src="./img/pm.jpg" alt="" width="40" height="40"/>
-    <img src="./img/ab.jpg" alt="" width="40" height="40"/>
-    <img src="./img/BF.jpg" alt="" width="40" height="40"/>
+<div id="stat" align="center" gap="20">
+    <img src="./img/km.jpg" alt="" width="240"/>
+    <img src="./img/pm.jpg" alt="" width="240"/>
+    <img src="./img/ab.jpg" alt="" width="240" />
+    <img src="./img/BF.jpg" alt="" width="240" />
 </div>
 
 
