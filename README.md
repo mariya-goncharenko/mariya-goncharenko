@@ -34,10 +34,10 @@
 ## Сертификаты 1С-Битрикс:
 
 <div id="stat" align="center" gap="20">
-    <img src="./img/km.jpg" alt="" width="240"/>
-    <img src="./img/pm.jpg" alt="" width="240"/>
-    <img src="./img/ab.jpg" alt="" width="240" />
-    <img src="./img/BF.jpg" alt="" width="240" />
+    <img src="./img/km.jpg" alt="Cертификат Контент-Менеджер" width="240"/>
+    <img src="./img/pm.jpg" alt="Cертификат Продвижение и Маркетинг" width="240"/>
+    <img src="./img/ab.jpg" alt="Cертификат Администратор. Базовый." width="240" />
+    <img src="./img/BF.jpg" alt="Cертификат Разработчик BF" width="240" />
 </div>
 
 
