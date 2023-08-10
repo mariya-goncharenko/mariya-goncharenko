@@ -34,10 +34,10 @@
 ## Сертификаты 1С-Битрикс:
 
 <div id="stat" align="center">
-    <img src="https://disk.yandex.ru/i/k2rNsieMORJFqQ" alt="" width="40" height="40"/>
-    <img src="https://disk.yandex.ru/i/qsbhQziPOTcBhQ" alt="" width="40" height="40"/>
-    <img src="https://disk.yandex.ru/i/zbBCe-Awr_wxgQ" alt="" width="40" height="40"/>
-    <img src="https://disk.yandex.ru/i/sY9-7oxJQKs8aQ" alt="" width="40" height="40"/>
+    <img src="./img/km.jpg" alt="" width="40" height="40"/>
+    <img src="./img/pm.jpg" alt="" width="40" height="40"/>
+    <img src="./img/ab.jpg" alt="" width="40" height="40"/>
+    <img src="./img/BF.jpg" alt="" width="40" height="40"/>
 </div>
 
 
