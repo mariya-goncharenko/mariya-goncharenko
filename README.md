@@ -31,6 +31,16 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mariya-goncharenko&theme=transparent&hide_border=true" alt=""/>
 </div>
 
+## Сертификаты 1С-Битрикс:
+
+<div id="stat" align="center">
+    <img src="https://disk.yandex.ru/i/k2rNsieMORJFqQ" alt="" width="40" height="40"/>
+    <img src="https://disk.yandex.ru/i/qsbhQziPOTcBhQ" alt="" width="40" height="40"/>
+    <img src="https://disk.yandex.ru/i/zbBCe-Awr_wxgQ" alt="" width="40" height="40"/>
+    <img src="https://disk.yandex.ru/i/sY9-7oxJQKs8aQ" alt="" width="40" height="40"/>
+</div>
+
+
 ## До новых встреч!
 <p align='center'>
   <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
