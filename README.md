@@ -31,6 +31,12 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mariya-goncharenko&theme=transparent&hide_border=true" alt=""/>
 </div>
 
+## Сертификаты Яндекс.Практикум:
+
+<div id="stat" align="center" gap="20">
+    <img src="./img/Гон" alt="Cертификат Контент-Менеджер" width="240"/>
+</div>
+
 ## Сертификаты 1С-Битрикс:
 
 <div id="stat" align="center" gap="20">
