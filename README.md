@@ -34,7 +34,8 @@
 ## Сертификаты Яндекс.Практикум:
 
 <div id="stat" align="center" gap="20">
-    <img src="./img/ya.pdf"  alt="Cертификат Веб-разработчик" width="240"/>
+    <img src="./img/ya.jpg"  alt="Cертификат Веб-разработчик" width="240"/>
+    <img src="./img/ya_en.jpg"  alt="Cертификат Веб-разработчик" width="240"/>
 </div>
 
 ## Сертификаты 1С-Битрикс:
