@@ -41,10 +41,19 @@
 
 ## Сертификаты Яндекс.Практикум:
 
+### Курс "Go-разработчик с нуля":
+<div id="stat" align="center" gap="20">
+    <img src="./img/ya_go.jpg"  alt="Cертификат Go-разработчик с нуля" width="500"/>
+    <img src="./img/ya_go_en.jpg"  alt="Cертификат Go-разработчик с нуля" width="500"/>
+</div>
+
+### Курс "Веб-разработчик":
 <div id="stat" align="center" gap="20">
     <img src="./img/ya.jpg"  alt="Cертификат Веб-разработчик" width="500"/>
     <img src="./img/ya_en.jpg"  alt="Cертификат Веб-разработчик" width="500"/>
 </div>
+
+
 
 ## Сертификаты 1С-Битрикс:
 
